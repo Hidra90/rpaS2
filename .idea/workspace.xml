@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -25,7 +28,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="137a8af1-ead0-43ab-ba4a-3338016a057b" name="Default Changelist" comment="" />
+    <list default="true" id="137a8af1-ead0-43ab-ba4a-3338016a057b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1/src/main/java/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1/src/main/java/by/jrr/start/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1/src/main/resources/.initial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1/src/test/java/.initial" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +44,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1n8oaLwpEbifO5dx7SAJBG7tKbr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -44,8 +56,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework/java/babareko_sveta/lecture2/task1" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\JavaGuru\rpaS2\homework\java\babareko_sveta\lecture2\task1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\PTSNIK\AppData\Roaming\Subversion</configuration>
@@ -71,6 +101,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit for lecture 2 task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit for lecture 2 task 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1611133468916">
